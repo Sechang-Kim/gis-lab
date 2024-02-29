@@ -1,6 +1,6 @@
 project: 
   type: website
-output-dir: docs
+  output-dir: docs
 
 website: 
   title: "GIS Lab"
@@ -8,7 +8,7 @@ navbar:
   left:
   - href: index.qmd
 text: Home
-- href: professor.qmd
+- href: professor/professor.qmd
 text: Professor
 
 format:

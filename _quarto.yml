@@ -12,7 +12,7 @@ website:
         text: Professor
   page-footer: 
     background: "#F6F5F3"
-    center: © 2024 &middot; Made with {{< fa brands r-project >}} and 
+    center: © 2024 &middot; Made with 
       [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=65px}](https://quarto.org/)
 
 format:

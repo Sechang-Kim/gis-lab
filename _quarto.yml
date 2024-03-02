@@ -7,9 +7,9 @@ website:
 navbar:
   left:
   - href: index.qmd
-text: Home
-- href: professor/professor.qmd
-text: Professor
+    text: Home
+  - href: professor/professor.qmd
+    text: Professor
 
 format:
   html:

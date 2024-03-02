@@ -1,9 +1,9 @@
 project: 
   type: website
-  output-dir: docs
 
 website: 
   title: "GIS Lab"
+  
 navbar:
   left:
   - href: index.qmd
@@ -13,6 +13,5 @@ navbar:
 
 format:
   html:
-  theme: cosmo
-css: style.css
-toc: true
+    theme: cosmo
+    toc: true

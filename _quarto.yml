@@ -2,20 +2,30 @@ project:
   type: website
   output-dir: docs
 
-website: 
-  title: "GIS Lab"
+website:
+  title: "GIS-LAB"
+  favicon: image/GIS_LAB_logo.png
   navbar:
-    left:
+    background: "#232E52"
+    logo: image/GIS_LAB_logo.png
+    logo-alt: "SNU GEOEDU GIS LAB"
+    right:
       - href: index.qmd
         text: Home
       - href: professor/professor.qmd
         text: Professor
+      - text: Students
+      - text: Alumni
+      - text: News & Events
+      - icon: github
+        href: https://github.com/Sechang-Kim/gis-lab
   page-footer: 
-    background: "#F6F5F3"
+    background: "#232E52"
     center: © 2024 &middot; Made with 
       [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=65px}](https://quarto.org/)
 
 format:
   html:
-    theme: superhero
+    theme: cosmo
+    style: style.css
     toc: true

@@ -10,7 +10,7 @@ website:
     right:
       - href: index.qmd
         text: Home
-      - href: professor/professor.qmd
+      - href: professor/index.qmd
         text: Professor
       - text: Students
         menu:

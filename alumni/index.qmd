@@ -1,0 +1,27 @@
+---
+title: "Alumni"
+format: html
+editor: visual
+---
+
+## Dr. Soyoung Lee
+
+-   Catholic Kwandong University
+
+-   Professor
+
+-   [sylee03051\@cku.ac.kr](mailto:ylee03051@cku.ac.kr){.email}
+
+## Dr. Hyeongmo Koo
+
+-   University of Seoul
+
+-   Professor
+
+-   contact
+
+## Dr. Yongha Park
+
+-   Jeonbuk National University
+
+-   Professor

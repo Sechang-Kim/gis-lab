@@ -16,7 +16,8 @@ website:
         menu:
           - text: "M.A. Students"
           - text: "PhD. Students"
-      - text: Alumni
+      - href: alumni/index.qmd
+        text: Alumni
       - text: News & Events
       - icon: github
         href: https://github.com/Sechang-Kim/gis-lab

@@ -4,10 +4,9 @@ project:
 
 website:
   title: "GIS-LAB"
-  favicon: image/GIS_LAB_logo.png
+  favicon: image/GIS-LAB_logo.png
   navbar:
     background: "#232E52"
-    logo: image/GIS_LAB_logo.png
     logo-alt: "SNU GEOEDU GIS LAB"
     right:
       - href: index.qmd

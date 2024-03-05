@@ -6,7 +6,7 @@ editor: visual
 
 ## GIS Lab
 
-This is a SNU Geoedu GIS Lab website.
+This is a SNU GEOEDU GIS Lab website.
 
 To learn more about our lab, contact [sechangkim97\@gmail.com](mailto:sechangkim97@gmail.com){.email}
 

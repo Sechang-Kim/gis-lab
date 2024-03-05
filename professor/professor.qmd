@@ -6,6 +6,6 @@ editor: visual
 
 ## Sang-il Lee
 
-The Professor of GIS Lab is Sang-il Lee.
+The Professor of out Lab is Sang-il Lee.
 
 For more information, visit [his own website](https://sangillee.snu.ac.kr/).

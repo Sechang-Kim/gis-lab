@@ -14,8 +14,8 @@ website:
         text: Professor
       - text: Students
         menu:
-          - text: M.A. Stdt.
-          - text: PhD. Stdt.
+          - text: "M.A. Students"
+          - text: "PhD. Students"
       - text: Alumni
       - text: News & Events
       - icon: github

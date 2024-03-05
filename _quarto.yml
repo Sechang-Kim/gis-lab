@@ -7,7 +7,6 @@ website:
   favicon: image/GIS-LAB_logo.png
   navbar:
     background: "#232E52"
-    logo-alt: "SNU GEOEDU GIS LAB"
     right:
       - href: index.qmd
         text: Home

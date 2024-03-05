@@ -13,6 +13,9 @@ website:
       - href: professor/professor.qmd
         text: Professor
       - text: Students
+        menu:
+          - text: M.A. Students
+          - text: Ph.d Students
       - text: Alumni
       - text: News & Events
       - icon: github

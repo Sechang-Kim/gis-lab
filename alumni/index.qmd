@@ -12,6 +12,8 @@ editor: visual
 
 -   [sylee03051\@cku.ac.kr](mailto:ylee03051@cku.ac.kr){.email}
 
+-   [For More Information](https://www.cku.ac.kr/geography/3737/subview.do)
+
 ## Dr. Hyeongmo Koo
 
 -   University of Seoul
@@ -27,3 +29,13 @@ editor: visual
 -   Jeonbuk National University
 
 -   Professor
+
+-   [For More Information](https://geoedu.jbnu.ac.kr/geoedu/5282/subview.do?enc=Zm5jdDF8QEB8JTJGamJudVByb2ZsJTJGZ2VvZWR1JTJGNTclMkY1MTM0JTJGYXJ0Y2xWaWV3LmRvJTNGcGFnZSUzRDElMjZmaW5kVHlwZSUzRCUyNmZpbmRXb3JkJTNEJTI2)
+
+## Dr. Monghyeon Lee
+
+-   Tmap Mobility Co.(Repulic of Korea)
+
+-   Data Scientist and Statistical Analyst
+
+-   [For More Information](https://www.linkedin.com/in/monghlee/?originalSubdomain=kr)

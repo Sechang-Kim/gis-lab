@@ -18,7 +18,8 @@ website:
           - text: "PhD. Students"
       - href: alumni/index.qmd
         text: Alumni
-      - text: News & Events
+      - href: news.qmd
+        text: News & Events
       - icon: github
         href: https://github.com/Sechang-Kim/gis-lab
   page-footer: 

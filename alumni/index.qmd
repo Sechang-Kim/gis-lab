@@ -18,7 +18,9 @@ editor: visual
 
 -   Professor
 
--   contact
+-   [website](https://hymokoo.weebly.com/)
+
+-   [hmokoo\@uos.ac.kr](mailto:hmokoo@uos.ac.kr){.email}
 
 ## Dr. Yongha Park
 

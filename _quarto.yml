@@ -16,8 +16,8 @@ website:
       - text: Students
         menu:
           - href: students/MA_Students.qmd
-            text: "M.A. Students"
-          - text: "PhD. Students"
+            text: M.A. Students
+          - text: PhD. Students
       - href: alumni/index.qmd
         text: Alumni
       - href: news.qmd

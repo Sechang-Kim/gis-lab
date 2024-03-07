@@ -6,6 +6,6 @@ editor: visual
 
 ## Sang-Il Lee
 
-The Professor of our Lab is Sang-il Lee.
+The Professor of our Lab is Sang-Il Lee.
 
 For more information, visit [his own website](https://sangillee.snu.ac.kr/).

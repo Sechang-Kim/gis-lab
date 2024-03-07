@@ -2,9 +2,9 @@
 title: "NEWS"
 editor: visual
 listing:
-  contents: news # changed from `blog`
+  contents: news
   sort: "date desc"
-  type: default #grid
+  type: default
   image-align: right
   max-description-length: 175
   date-format: medium

@@ -24,13 +24,16 @@ website:
       - icon: github
         href: https://github.com/Sechang-Kim/gis-lab
   page-footer: 
-    background: "#232E52"
-    center: © 2024 &middot; Made with 
-      [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=65px}](https://quarto.org/)
+    background: "#f0eeeb"
+    left: |
+      Copyright &copy; 2024 [Seoul National University](https://snu.ac.kr/)
+    center: Made with 
+      [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=65px}](https://quarto.org/) and
+      [![](https://posit.cloud/images/site-home/posit-logo-black-TM.svg){fig-alt="Posit" width=65px}](https://posit.co/)
 
 format:
   html:
     theme: [cosmo, style.scss]
     css: style.css
-    style: style.scss
     toc: true
+    code-block-bg: true

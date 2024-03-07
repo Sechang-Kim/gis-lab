@@ -3,9 +3,10 @@ project:
   output-dir: docs
 
 website:
-  title: "GIS-LAB"
+  title: "Seoul National University<br>Dept' of Geography Education<br>GIS Laboratory"
   favicon: image/GIS-LAB_logo.png
   navbar:
+    logo: image/SNU_logo_grey.png
     background: "#232E52"
     right:
       - href: index.qmd
@@ -29,6 +30,7 @@ website:
 
 format:
   html:
-    theme: cosmo
-    style: style.css
+    theme: [cosmo, style.scss]
+    css: style.css
+    style: style.scss
     toc: true

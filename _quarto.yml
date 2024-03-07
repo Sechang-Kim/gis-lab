@@ -15,7 +15,7 @@ website:
         text: Professor
       - text: Students
         menu:
-          - href: students/M.A. Students/index.qmd
+          - href: students/MA_Students.qmd
             text: "M.A. Students"
           - text: "PhD. Students"
       - href: alumni/index.qmd

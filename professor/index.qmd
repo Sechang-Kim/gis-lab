@@ -4,7 +4,7 @@ format: html
 editor: visual
 ---
 
-## Sang-il Lee
+## Sang-Il Lee
 
 The Professor of our Lab is Sang-il Lee.
 

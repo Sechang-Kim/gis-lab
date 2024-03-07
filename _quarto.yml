@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Seoul National University<br>Dept' of Geography Education<br>GIS Laboratory"
+  title: "GIS Laboratory<br>Dept' of Geography Education<br>Seoul National University"
   favicon: image/GIS-LAB_logo.png
   navbar:
     logo: image/SNU_logo_grey.png
@@ -15,7 +15,8 @@ website:
         text: Professor
       - text: Students
         menu:
-          - text: "M.A. Students"
+          - href: students/M.A. Students/index.qmd
+            text: "M.A. Students"
           - text: "PhD. Students"
       - href: alumni/index.qmd
         text: Alumni

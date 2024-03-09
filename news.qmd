@@ -2,7 +2,7 @@
 title: "NEWS"
 editor: visual
 listing:
-  contents: news # changed from `blog`
+  contents: news
   sort: "date desc"
   type: default #grid
   image-align: right

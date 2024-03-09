@@ -6,6 +6,8 @@ editor: visual
 
 ## Dr. Soyoung Lee
 
+![](../image/sylee.jpg){style="float:right;" width="130"}
+
 -   Catholic Kwandong University
 
 -   Professor
@@ -15,6 +17,8 @@ editor: visual
 -   [For More Information](https://www.cku.ac.kr/geography/3737/subview.do)
 
 ## Dr. Hyeongmo Koo
+
+![](../image/hmkoo.png){style="float:right;" width="130"}
 
 -   University of Seoul
 
@@ -26,13 +30,19 @@ editor: visual
 
 ## Dr. Yongha Park
 
+![](../image/yhpark.jpg){style="float:right;" width="130"}
+
 -   Jeonbuk National University
 
 -   Professor
 
+-   [yonghapark\@jbnu.ac.kr](mailto:yonghapark@jbnu.ac.kr){.email}
+
 -   [For More Information](https://geoedu.jbnu.ac.kr/geoedu/5282/subview.do?enc=Zm5jdDF8QEB8JTJGamJudVByb2ZsJTJGZ2VvZWR1JTJGNTclMkY1MTM0JTJGYXJ0Y2xWaWV3LmRvJTNGcGFnZSUzRDElMjZmaW5kVHlwZSUzRCUyNmZpbmRXb3JkJTNEJTI2)
 
 ## Dr. Monghyeon Lee
+
+![](../image/mhlee.jpg){style="float:right;" width="130"}
 
 -   Tmap Mobility Co.(Repulic of Korea)
 

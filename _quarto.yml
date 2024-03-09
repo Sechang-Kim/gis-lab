@@ -31,7 +31,8 @@ website:
     center: Made with 
       [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=65px}](https://quarto.org/) and
       [![](https://posit.cloud/images/site-home/posit-logo-black-TM.svg){fig-alt="Posit" width=65px}](https://posit.co/)
-
+    right: First Developed by [Sechang Kim](mailto:sechangkim97@gmail.com)
+    
 format:
   html:
     theme: [cosmo, style.scss]

@@ -8,7 +8,7 @@ editor: visual
 
 ![](../image/sylee.jpg){style="float:right;" width="130"}
 
--   Dept' of Geography Education, Catholic Kwandong University
+-   Dept. of Geography Education, Catholic Kwandong University
 
 -   Professor
 
@@ -20,7 +20,7 @@ editor: visual
 
 ![](../image/hmkoo.png){style="float:right;" width="130"}
 
--   Dept' of Geoinformatics, University of Seoul
+-   Dept. of Geoinformatics, University of Seoul
 
 -   Professor
 
@@ -32,7 +32,7 @@ editor: visual
 
 ![](../image/yhpark.jpg){style="float:right;" width="130"}
 
--   Dept' of Geography Education, Jeonbuk National University
+-   Dept. of Geography Education, Jeonbuk National University
 
 -   Professor
 

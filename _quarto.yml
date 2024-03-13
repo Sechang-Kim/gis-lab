@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "GIS Laboratory<br>Dept' of Geography Education<br>Seoul National University"
+  title: "Spatial Data Science Lab<br>Dept. of Geography Education <br>Seoul National University"
   favicon: image/GIS-LAB_logo.png
   navbar:
     logo: image/SNU_logo_grey.png
@@ -27,11 +27,17 @@ website:
   page-footer: 
     background: "#f0eeeb"
     left: |
-      Copyright &copy; 2024 [Seoul National University](https://snu.ac.kr/)
-    center: Made with 
+      __Address:__ <br>
+      10-203, College of Education, 1 Gwanak-ro, Gwanak-gu, Seoul 08826, Republic of Korea <br>
+      __Tel__: 02-880-2557 | __Office Hour__: Mon-Fri, 09:00 - 18:00 | __Lab Manager__: [Woohyeong Kim](mailto:whk3423@snu.ac.kr)
+    center: |
+      Made with 
       [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=65px}](https://quarto.org/) and
-      [![](https://posit.cloud/images/site-home/posit-logo-black-TM.svg){fig-alt="Posit" width=65px}](https://posit.co/)
-    right: First Developed by [Sechang Kim](mailto:sechangkim97@gmail.com)
+      [![](https://posit.cloud/images/site-home/posit-logo-black-TM.svg){fig-alt="Posit" width=52px}](https://posit.co/) <br>
+      First Developed by [Sechang Kim](mailto:sechangkim97@gmail.com)
+    right: |
+      Copyright &copy; 2024 [Seoul National University](https://snu.ac.kr/)<br>
+      
     
 format:
   html:

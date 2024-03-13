@@ -1,12 +1,12 @@
 ---
-title: "Welcome to GIS-Lab"
+title: "Welcome to SDS-Lab"
 format: html
 editor: visual
 ---
 
-## GIS Lab
+## SDS Lab
 
-This is a SNU GEOEDU GIS Lab website.
+This is a SNU GEOEDU SDS Lab website.
 
 To learn more about our lab, contact [sechangkim97\@gmail.com](mailto:sechangkim97@gmail.com){.email}
 

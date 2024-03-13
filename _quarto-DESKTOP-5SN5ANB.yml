@@ -1,0 +1,40 @@
+project: 
+  type: website
+  output-dir: docs
+
+website:
+  title: "GIS Laboratory<br>Dept' of Geography Education<br>Seoul National University"
+  favicon: image/GIS-LAB_logo.png
+  navbar:
+    logo: image/SNU_logo_grey.png
+    background: "#232E52"
+    right:
+      - href: index.qmd
+        text: Home
+      - href: professor/index.qmd
+        text: Professor
+      - text: Students
+        menu:
+          - href: students/MA_Students.qmd
+            text: M.A. Students
+          - text: PhD. Students
+      - href: alumni/index.qmd
+        text: Alumni
+      - href: news.qmd
+        text: News & Events
+      - icon: github
+        href: https://github.com/Sechang-Kim/gis-lab
+  page-footer: 
+    background: "#f0eeeb"
+    left: |
+      Copyright &copy; 2024 [Seoul National University](https://snu.ac.kr/)
+    center: Made with 
+      [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=65px}](https://quarto.org/) and
+      [![](https://posit.cloud/images/site-home/posit-logo-black-TM.svg){fig-alt="Posit" width=65px}](https://posit.co/)
+
+format:
+  html:
+    theme: [cosmo, style.scss]
+    css: style.css
+    toc: true
+    code-block-bg: true

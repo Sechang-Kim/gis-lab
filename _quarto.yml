@@ -20,6 +20,8 @@ website:
           - text: PhD. Students
       - href: alumni/index.qmd
         text: Alumni
+      - href: notice/list.html
+        text: Notice
       - href: news.qmd
         text: News & Events
       - icon: github
